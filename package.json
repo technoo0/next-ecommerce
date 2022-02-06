@@ -1,6 +1,7 @@
 {
   "name": "next-ecommerce",
   "private": true,
+  "main": "server.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
@@ -12,6 +13,8 @@
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.3.1",
     "@mui/material": "^5.4.0",
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.17.1",
     "next": "12.0.10",
     "next-optimized-images": "^2.6.2",
     "react": "17.0.2",

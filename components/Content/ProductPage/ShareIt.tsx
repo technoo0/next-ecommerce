@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Divider, Grid, IconButton, Link, Typography } from "@mui/material";
 import { useRouter } from "next/router";
 import FacebookIcon from "@mui/icons-material/Facebook";
@@ -12,16 +12,16 @@ interface PropsTypes {
   product_data: product;
 }
 export default React.memo(function ShareIt({ product_data }: PropsTypes) {
+  const [link, setlink] = useState("");
+  useEffect(() => {
+    setlink(window.location.href);
+  }, []);
   const router = useRouter();
   return (
     <Grid container direction={"row"}>
       <Grid item>
         <Link
-          href={
-            "https://www.facebook.com/sharer.php?u=" +
-            process.env.NEXT_PUBLIC_BASEURL +
-            router.asPath
-          }
+          href={"https://www.facebook.com/sharer.php?u=" + link}
           target="_blank"
           rel="noopener"
         >
@@ -34,11 +34,7 @@ export default React.memo(function ShareIt({ product_data }: PropsTypes) {
       <Grid item>
         <Link
           href={
-            "whatsapp://send?text=" +
-            product_data.product_name +
-            " - " +
-            process.env.NEXT_PUBLIC_BASEURL +
-            router.asPath
+            "whatsapp://send?text=" + product_data.product_name + " - " + link
           }
           target="_blank"
           rel="noopener"
@@ -52,8 +48,7 @@ export default React.memo(function ShareIt({ product_data }: PropsTypes) {
         <Link
           href={
             "https://twitter.com/intent/tweet?url=" +
-            process.env.NEXT_PUBLIC_BASEURL +
-            router.asPath +
+            link +
             "&text=" +
             product_data.product_name
           }
@@ -72,8 +67,7 @@ export default React.memo(function ShareIt({ product_data }: PropsTypes) {
             "mailto:enteryour@addresshere.com?subject=" +
             product_data.product_name +
             "&body= Check this out: \n" +
-            process.env.NEXT_PUBLIC_BASEURL +
-            router.asPath
+            link
           }
           target="_blank"
           rel="noopener"

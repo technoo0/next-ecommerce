@@ -1,0 +1,2378 @@
+[
+  {
+    "product_type": "Mobile Phone",
+    "product_name": "Modern Mobile Phone",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/mobilephone_150.png",
+    "product_image_md": "/gadgets/mobilephone_300.png",
+    "product_image_lg": "/gadgets/mobilephone_600.png"
+  },
+  {
+    "product_type": "Computer Table",
+    "product_name": "Risk-free Computer Table",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/computertable_150.png",
+    "product_image_md": "/gadgets/computertable_300.png",
+    "product_image_lg": "/gadgets/computertable_600.png"
+  },
+  {
+    "product_type": "Laptop",
+    "product_name": "Limited Laptop",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/laptop_150.png",
+    "product_image_md": "/gadgets/laptop_300.png",
+    "product_image_lg": "/gadgets/laptop_600.png"
+  },
+  {
+    "product_type": "Desktop",
+    "product_name": "Ancient Desktop",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/desktop_150.png",
+    "product_image_md": "/gadgets/desktop_300.png",
+    "product_image_lg": "/gadgets/desktop_600.png"
+  },
+  {
+    "product_type": "Security Camera",
+    "product_name": "Smooth Security Camera",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/securitycamera_150.png",
+    "product_image_md": "/gadgets/securitycamera_300.png",
+    "product_image_lg": "/gadgets/securitycamera_600.png"
+  },
+  {
+    "product_type": "Action Camera",
+    "product_name": "Drab Action Camera",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/actioncamera_150.png",
+    "product_image_md": "/gadgets/actioncamera_300.png",
+    "product_image_lg": "/gadgets/actioncamera_600.png"
+  },
+  {
+    "product_type": "Gaming Console",
+    "product_name": "Convenient Gaming Console",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/gamingconsole_150.png",
+    "product_image_md": "/gadgets/gamingconsole_300.png",
+    "product_image_lg": "/gadgets/gamingconsole_600.png"
+  },
+  {
+    "product_type": "Phone Charger",
+    "product_name": "Refined Phone Charger",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/phonecharger_150.png",
+    "product_image_md": "/gadgets/phonecharger_300.png",
+    "product_image_lg": "/gadgets/phonecharger_600.png"
+  },
+  {
+    "product_type": "Drone",
+    "product_name": "Rare Drone",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/drone_150.png",
+    "product_image_md": "/gadgets/drone_300.png",
+    "product_image_lg": "/gadgets/drone_600.png"
+  },
+  {
+    "product_type": "Earphone",
+    "product_name": "Magic Earphone",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/earphone_150.png",
+    "product_image_md": "/gadgets/earphone_300.png",
+    "product_image_lg": "/gadgets/earphone_600.png"
+  },
+  {
+    "product_type": "Headset",
+    "product_name": "Safe Headset",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/headset_150.png",
+    "product_image_md": "/gadgets/headset_300.png",
+    "product_image_lg": "/gadgets/headset_600.png"
+  },
+  {
+    "product_type": "Bluetooth Speaker",
+    "product_name": "Glamorous Bluetooth Speaker",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/bluetoothspeaker_150.png",
+    "product_image_md": "/gadgets/bluetoothspeaker_300.png",
+    "product_image_lg": "/gadgets/bluetoothspeaker_600.png"
+  },
+  {
+    "product_type": "Smart Watch",
+    "product_name": "Exciting Smart Watch",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/smartwatch_150.png",
+    "product_image_md": "/gadgets/smartwatch_300.png",
+    "product_image_lg": "/gadgets/smartwatch_600.png"
+  },
+  {
+    "product_type": "Basic Phone",
+    "product_name": "Staple Basic Phone",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/basicphone_150.png",
+    "product_image_md": "/gadgets/basicphone_300.png",
+    "product_image_lg": "/gadgets/basicphone_600.png"
+  },
+  {
+    "product_type": "Nintendo Switch",
+    "product_name": "Sparkling Nintendo Switch",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/nintendoswitch_150.png",
+    "product_image_md": "/gadgets/nintendoswitch_300.png",
+    "product_image_lg": "/gadgets/nintendoswitch_600.png"
+  },
+  {
+    "product_type": "Power Bank",
+    "product_name": "Fine Power Bank",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/powerbank_150.png",
+    "product_image_md": "/gadgets/powerbank_300.png",
+    "product_image_lg": "/gadgets/powerbank_600.png"
+  },
+  {
+    "product_type": "Gameboy",
+    "product_name": "Licensed Gameboy",
+    "product_department": "Gadgets",
+    "product_departmentId": "gadgets",
+    "product_image_sm": "/gadgets/gameboy_150.png",
+    "product_image_md": "/gadgets/gameboy_300.png",
+    "product_image_lg": "/gadgets/gameboy_600.png"
+  },
+  {
+    "product_type": "Vacuum Cleaner",
+    "product_name": "Handcrafted Vacuum Cleaner",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/vacuumcleaner_150.png",
+    "product_image_md": "/appliances/vacuumcleaner_300.png",
+    "product_image_lg": "/appliances/vacuumcleaner_600.png"
+  },
+  {
+    "product_type": "Washing Machine",
+    "product_name": "Zesty Washing Machine",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/washingmachine_150.png",
+    "product_image_md": "/appliances/washingmachine_300.png",
+    "product_image_lg": "/appliances/washingmachine_600.png"
+  },
+  {
+    "product_type": "Dryer",
+    "product_name": "Simple Dryer",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/dryer_150.png",
+    "product_image_md": "/appliances/dryer_300.png",
+    "product_image_lg": "/appliances/dryer_600.png"
+  },
+  {
+    "product_type": "Speaker",
+    "product_name": "Amazing Speaker",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/speaker_150.png",
+    "product_image_md": "/appliances/speaker_300.png",
+    "product_image_lg": "/appliances/speaker_600.png"
+  },
+  {
+    "product_type": "Television",
+    "product_name": "Practical Television",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/television_150.png",
+    "product_image_md": "/appliances/television_300.png",
+    "product_image_lg": "/appliances/television_600.png"
+  },
+  {
+    "product_type": "Refrigerator",
+    "product_name": "Fancy Refrigerator",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/refrigerator_150.png",
+    "product_image_md": "/appliances/refrigerator_300.png",
+    "product_image_lg": "/appliances/refrigerator_600.png"
+  },
+  {
+    "product_type": "Soundbar",
+    "product_name": "Secret Soundbar",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/soundbar_150.png",
+    "product_image_md": "/appliances/soundbar_300.png",
+    "product_image_lg": "/appliances/soundbar_600.png"
+  },
+  {
+    "product_type": "Air Conditioner",
+    "product_name": "Rare Air Conditioner",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/airconditioner_150.png",
+    "product_image_md": "/appliances/airconditioner_300.png",
+    "product_image_lg": "/appliances/airconditioner_600.png"
+  },
+  {
+    "product_type": "Humidifier",
+    "product_name": "Magnificent Humidifier",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/humidifier_150.png",
+    "product_image_md": "/appliances/humidifier_300.png",
+    "product_image_lg": "/appliances/humidifier_600.png"
+  },
+  {
+    "product_type": "Toaster",
+    "product_name": "Luxurious Toaster",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/toaster_150.png",
+    "product_image_md": "/appliances/toaster_300.png",
+    "product_image_lg": "/appliances/toaster_600.png"
+  },
+  {
+    "product_type": "Coffee Machine",
+    "product_name": "Fantastic Coffee Machine",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/coffeemachine_150.png",
+    "product_image_md": "/appliances/coffeemachine_300.png",
+    "product_image_lg": "/appliances/coffeemachine_600.png"
+  },
+  {
+    "product_type": "Microwave",
+    "product_name": "Convenient Microwave",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/microwave_150.png",
+    "product_image_md": "/appliances/microwave_300.png",
+    "product_image_lg": "/appliances/microwave_600.png"
+  },
+  {
+    "product_type": "Stove",
+    "product_name": "Amazing Stove",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/stove_150.png",
+    "product_image_md": "/appliances/stove_300.png",
+    "product_image_lg": "/appliances/stove_600.png"
+  },
+  {
+    "product_type": "Wall Fan",
+    "product_name": "Clean Wall Fan",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/wallfan_150.png",
+    "product_image_md": "/appliances/wallfan_300.png",
+    "product_image_lg": "/appliances/wallfan_600.png"
+  },
+  {
+    "product_type": "Stand Fan",
+    "product_name": "Magic Stand Fan",
+    "product_department": "Appliances",
+    "product_departmentId": "appliances",
+    "product_image_sm": "/appliances/standfan_150.png",
+    "product_image_md": "/appliances/standfan_300.png",
+    "product_image_lg": "/appliances/standfan_600.png"
+  },
+  {
+    "product_type": "Mop",
+    "product_name": "Rare Mop",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/mop_150.png",
+    "product_image_md": "/homeandliving/mop_300.png",
+    "product_image_lg": "/homeandliving/mop_600.png"
+  },
+  {
+    "product_type": "Drill",
+    "product_name": "Revolutionary Drill",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/drill_150.png",
+    "product_image_md": "/homeandliving/drill_300.png",
+    "product_image_lg": "/homeandliving/drill_600.png"
+  },
+  {
+    "product_type": "Hammer",
+    "product_name": "Plain Hammer",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/hammer_150.png",
+    "product_image_md": "/homeandliving/hammer_300.png",
+    "product_image_lg": "/homeandliving/hammer_600.png"
+  },
+  {
+    "product_type": "Shovel",
+    "product_name": "Smooth Shovel",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/shovel_150.png",
+    "product_image_md": "/homeandliving/shovel_300.png",
+    "product_image_lg": "/homeandliving/shovel_600.png"
+  },
+  {
+    "product_type": "Pail",
+    "product_name": "Elegant Pail",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/pail_150.png",
+    "product_image_md": "/homeandliving/pail_300.png",
+    "product_image_lg": "/homeandliving/pail_600.png"
+  },
+  {
+    "product_type": "Ladder",
+    "product_name": "Awesome Ladder",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/ladder_150.png",
+    "product_image_md": "/homeandliving/ladder_300.png",
+    "product_image_lg": "/homeandliving/ladder_600.png"
+  },
+  {
+    "product_type": "Lock",
+    "product_name": "Tested Lock",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/lock_150.png",
+    "product_image_md": "/homeandliving/lock_300.png",
+    "product_image_lg": "/homeandliving/lock_600.png"
+  },
+  {
+    "product_type": "Dining Table",
+    "product_name": "Glamorous Dining Table",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/diningtable_150.png",
+    "product_image_md": "/homeandliving/diningtable_300.png",
+    "product_image_lg": "/homeandliving/diningtable_600.png"
+  },
+  {
+    "product_type": "Cutlery",
+    "product_name": "Staple Cutlery",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/cutlery_150.png",
+    "product_image_md": "/homeandliving/cutlery_300.png",
+    "product_image_lg": "/homeandliving/cutlery_600.png"
+  },
+  {
+    "product_type": "Chopsticks",
+    "product_name": "Limited Chopsticks",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/chopsticks_150.png",
+    "product_image_md": "/homeandliving/chopsticks_300.png",
+    "product_image_lg": "/homeandliving/chopsticks_600.png"
+  },
+  {
+    "product_type": "Bed",
+    "product_name": "Adorable Bed",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/bed_150.png",
+    "product_image_md": "/homeandliving/bed_300.png",
+    "product_image_lg": "/homeandliving/bed_600.png"
+  },
+  {
+    "product_type": "Mattress",
+    "product_name": "Magnificent Mattress",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/mattress_150.png",
+    "product_image_md": "/homeandliving/mattress_300.png",
+    "product_image_lg": "/homeandliving/mattress_600.png"
+  },
+  {
+    "product_type": "Curtain",
+    "product_name": "Ancient Curtain",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/curtain_150.png",
+    "product_image_md": "/homeandliving/curtain_300.png",
+    "product_image_lg": "/homeandliving/curtain_600.png"
+  },
+  {
+    "product_type": "Clock",
+    "product_name": "Sparkling Clock",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/clock_150.png",
+    "product_image_md": "/homeandliving/clock_300.png",
+    "product_image_lg": "/homeandliving/clock_600.png"
+  },
+  {
+    "product_type": "Alarm Clock",
+    "product_name": "Luxurious Alarm Clock",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/alarmclock_150.png",
+    "product_image_md": "/homeandliving/alarmclock_300.png",
+    "product_image_lg": "/homeandliving/alarmclock_600.png"
+  },
+  {
+    "product_type": "Hanger",
+    "product_name": "Handcrafted Hanger",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/hanger_150.png",
+    "product_image_md": "/homeandliving/hanger_300.png",
+    "product_image_lg": "/homeandliving/hanger_600.png"
+  },
+  {
+    "product_type": "Pitcher",
+    "product_name": "Rare Pitcher",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/pitcher_150.png",
+    "product_image_md": "/homeandliving/pitcher_300.png",
+    "product_image_lg": "/homeandliving/pitcher_600.png"
+  },
+  {
+    "product_type": "Pillow",
+    "product_name": "Unconditional Pillow",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/pillow_150.png",
+    "product_image_md": "/homeandliving/pillow_300.png",
+    "product_image_lg": "/homeandliving/pillow_600.png"
+  },
+  {
+    "product_type": "Stool",
+    "product_name": "Premium Stool",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/stool_150.png",
+    "product_image_md": "/homeandliving/stool_300.png",
+    "product_image_lg": "/homeandliving/stool_600.png"
+  },
+  {
+    "product_type": "Mirror",
+    "product_name": "Painless Mirror",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/mirror_150.png",
+    "product_image_md": "/homeandliving/mirror_300.png",
+    "product_image_lg": "/homeandliving/mirror_600.png"
+  },
+  {
+    "product_type": "Sofa",
+    "product_name": "Rustic Sofa",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/sofa_150.png",
+    "product_image_md": "/homeandliving/sofa_300.png",
+    "product_image_lg": "/homeandliving/sofa_600.png"
+  },
+  {
+    "product_type": "Indoor Plant",
+    "product_name": "Quaint Indoor Plant",
+    "product_department": "Home & Living",
+    "product_departmentId": "homeandliving",
+    "product_image_sm": "/homeandliving/indoorplant_150.png",
+    "product_image_md": "/homeandliving/indoorplant_300.png",
+    "product_image_lg": "/homeandliving/indoorplant_600.png"
+  },
+  {
+    "product_type": "Ballpen",
+    "product_name": "Fantastic Ballpen",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/ballpen_150.png",
+    "product_image_md": "/schoolsupplies/ballpen_300.png",
+    "product_image_lg": "/schoolsupplies/ballpen_600.png"
+  },
+  {
+    "product_type": "Eraser",
+    "product_name": "Great Eraser",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/eraser_150.png",
+    "product_image_md": "/schoolsupplies/eraser_300.png",
+    "product_image_lg": "/schoolsupplies/eraser_600.png"
+  },
+  {
+    "product_type": "Crayons",
+    "product_name": "Plain Crayons",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/crayons_150.png",
+    "product_image_md": "/schoolsupplies/crayons_300.png",
+    "product_image_lg": "/schoolsupplies/crayons_600.png"
+  },
+  {
+    "product_type": "Watercolor",
+    "product_name": "Extraordinary Watercolor",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/watercolor_150.png",
+    "product_image_md": "/schoolsupplies/watercolor_300.png",
+    "product_image_lg": "/schoolsupplies/watercolor_600.png"
+  },
+  {
+    "product_type": "Pencil",
+    "product_name": "Fine Pencil",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/pencil_150.png",
+    "product_image_md": "/schoolsupplies/pencil_300.png",
+    "product_image_lg": "/schoolsupplies/pencil_600.png"
+  },
+  {
+    "product_type": "Permanent Marker",
+    "product_name": "Intelligent Permanent Marker",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/permanentmarker_150.png",
+    "product_image_md": "/schoolsupplies/permanentmarker_300.png",
+    "product_image_lg": "/schoolsupplies/permanentmarker_600.png"
+  },
+  {
+    "product_type": "Whiteboard Marker",
+    "product_name": "Tasty Whiteboard Marker",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/whiteboardmarker_150.png",
+    "product_image_md": "/schoolsupplies/whiteboardmarker_300.png",
+    "product_image_lg": "/schoolsupplies/whiteboardmarker_600.png"
+  },
+  {
+    "product_type": "Highlighter",
+    "product_name": "Plethora Highlighter",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/highlighter_150.png",
+    "product_image_md": "/schoolsupplies/highlighter_300.png",
+    "product_image_lg": "/schoolsupplies/highlighter_600.png"
+  },
+  {
+    "product_type": "Notebook",
+    "product_name": "Miracle Notebook",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/notebook_150.png",
+    "product_image_md": "/schoolsupplies/notebook_300.png",
+    "product_image_lg": "/schoolsupplies/notebook_600.png"
+  },
+  {
+    "product_type": "Whiteboard",
+    "product_name": "Awesome Whiteboard",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/whiteboard_150.png",
+    "product_image_md": "/schoolsupplies/whiteboard_300.png",
+    "product_image_lg": "/schoolsupplies/whiteboard_600.png"
+  },
+  {
+    "product_type": "Sticky Note",
+    "product_name": "Magic Sticky Note",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/stickynote_150.png",
+    "product_image_md": "/schoolsupplies/stickynote_300.png",
+    "product_image_lg": "/schoolsupplies/stickynote_600.png"
+  },
+  {
+    "product_type": "Binder Clip",
+    "product_name": "Topical Binder Clip",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/binderclip_150.png",
+    "product_image_md": "/schoolsupplies/binderclip_300.png",
+    "product_image_lg": "/schoolsupplies/binderclip_600.png"
+  },
+  {
+    "product_type": "Correction Tape",
+    "product_name": "Brand-new Correction Tape",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/correctiontape_150.png",
+    "product_image_md": "/schoolsupplies/correctiontape_300.png",
+    "product_image_lg": "/schoolsupplies/correctiontape_600.png"
+  },
+  {
+    "product_type": "Correction Fluid",
+    "product_name": "Unconditional Correction Fluid",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/correctionfluid_150.png",
+    "product_image_md": "/schoolsupplies/correctionfluid_300.png",
+    "product_image_lg": "/schoolsupplies/correctionfluid_600.png"
+  },
+  {
+    "product_type": "Glue",
+    "product_name": "Fresh Glue",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/glue_150.png",
+    "product_image_md": "/schoolsupplies/glue_300.png",
+    "product_image_lg": "/schoolsupplies/glue_600.png"
+  },
+  {
+    "product_type": "Yarn",
+    "product_name": "Complimentary Yarn",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/yarn_150.png",
+    "product_image_md": "/schoolsupplies/yarn_300.png",
+    "product_image_lg": "/schoolsupplies/yarn_600.png"
+  },
+  {
+    "product_type": "Paper Cutter",
+    "product_name": "Extraordinary Paper Cutter",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/papercutter_150.png",
+    "product_image_md": "/schoolsupplies/papercutter_300.png",
+    "product_image_lg": "/schoolsupplies/papercutter_600.png"
+  },
+  {
+    "product_type": "Paper Clip",
+    "product_name": "Small Paper Clip",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/paperclip_150.png",
+    "product_image_md": "/schoolsupplies/paperclip_300.png",
+    "product_image_lg": "/schoolsupplies/paperclip_600.png"
+  },
+  {
+    "product_type": "Folder",
+    "product_name": "Miracle Folder",
+    "product_department": "School Supplies",
+    "product_departmentId": "schoolsupplies",
+    "product_image_sm": "/schoolsupplies/folder_150.png",
+    "product_image_md": "/schoolsupplies/folder_300.png",
+    "product_image_lg": "/schoolsupplies/folder_600.png"
+  },
+  {
+    "product_type": "Lipstick",
+    "product_name": "Safe and effective Lipstick",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/lipstick_150.png",
+    "product_image_md": "/healthandbeauty/lipstick_300.png",
+    "product_image_lg": "/healthandbeauty/lipstick_600.png"
+  },
+  {
+    "product_type": "Eyeliner",
+    "product_name": "Beautiful Eyeliner",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/eyeliner_150.png",
+    "product_image_md": "/healthandbeauty/eyeliner_300.png",
+    "product_image_lg": "/healthandbeauty/eyeliner_600.png"
+  },
+  {
+    "product_type": "Makeup Brush",
+    "product_name": "Awesome Makeup Brush",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/makeupbrush_150.png",
+    "product_image_md": "/healthandbeauty/makeupbrush_300.png",
+    "product_image_lg": "/healthandbeauty/makeupbrush_600.png"
+  },
+  {
+    "product_type": "Shampoo",
+    "product_name": "Ultra Shampoo",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/shampoo_150.png",
+    "product_image_md": "/healthandbeauty/shampoo_300.png",
+    "product_image_lg": "/healthandbeauty/shampoo_600.png"
+  },
+  {
+    "product_type": "Conditioner",
+    "product_name": "Honeyed Conditioner",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/conditioner_150.png",
+    "product_image_md": "/healthandbeauty/conditioner_300.png",
+    "product_image_lg": "/healthandbeauty/conditioner_600.png"
+  },
+  {
+    "product_type": "Soap",
+    "product_name": "Sparkling Soap",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/soap_150.png",
+    "product_image_md": "/healthandbeauty/soap_300.png",
+    "product_image_lg": "/healthandbeauty/soap_600.png"
+  },
+  {
+    "product_type": "Facial Wash",
+    "product_name": "Pledge Facial Wash",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/facialwash_150.png",
+    "product_image_md": "/healthandbeauty/facialwash_300.png",
+    "product_image_lg": "/healthandbeauty/facialwash_600.png"
+  },
+  {
+    "product_type": "Food Supplement",
+    "product_name": "Dazzling Food Supplement",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/foodsupplement_150.png",
+    "product_image_md": "/healthandbeauty/foodsupplement_300.png",
+    "product_image_lg": "/healthandbeauty/foodsupplement_600.png"
+  },
+  {
+    "product_type": "Medicine",
+    "product_name": "Select Medicine",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/medicine_150.png",
+    "product_image_md": "/healthandbeauty/medicine_300.png",
+    "product_image_lg": "/healthandbeauty/medicine_600.png"
+  },
+  {
+    "product_type": "Moisturizer",
+    "product_name": "Amazing Moisturizer",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/moisturizer_150.png",
+    "product_image_md": "/healthandbeauty/moisturizer_300.png",
+    "product_image_lg": "/healthandbeauty/moisturizer_600.png"
+  },
+  {
+    "product_type": "Toothbrush",
+    "product_name": "Legitimate Toothbrush",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/toothbrush_150.png",
+    "product_image_md": "/healthandbeauty/toothbrush_300.png",
+    "product_image_lg": "/healthandbeauty/toothbrush_600.png"
+  },
+  {
+    "product_type": "Deodorant",
+    "product_name": "Risk-free Deodorant",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/deodorant_150.png",
+    "product_image_md": "/healthandbeauty/deodorant_300.png",
+    "product_image_lg": "/healthandbeauty/deodorant_600.png"
+  },
+  {
+    "product_type": "Shaver",
+    "product_name": "Revolutionary Shaver",
+    "product_department": "Health & Beauty",
+    "product_departmentId": "healthandbeauty",
+    "product_image_sm": "/healthandbeauty/shaver_150.png",
+    "product_image_md": "/healthandbeauty/shaver_300.png",
+    "product_image_lg": "/healthandbeauty/shaver_600.png"
+  },
+  {
+    "product_type": "Diaper",
+    "product_name": "Brilliant Diaper",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/diaper_150.png",
+    "product_image_md": "/babies/diaper_300.png",
+    "product_image_lg": "/babies/diaper_600.png"
+  },
+  {
+    "product_type": "Milk Formula",
+    "product_name": "Amazing Milk Formula",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/milkformula_150.png",
+    "product_image_md": "/babies/milkformula_300.png",
+    "product_image_lg": "/babies/milkformula_600.png"
+  },
+  {
+    "product_type": "Baby Girl Dress",
+    "product_name": "Staggering Baby Girl Dress",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/babygirldress_150.png",
+    "product_image_md": "/babies/babygirldress_300.png",
+    "product_image_lg": "/babies/babygirldress_600.png"
+  },
+  {
+    "product_type": "Baby Boy Dress",
+    "product_name": "Drab Baby Boy Dress",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/babyboydress_150.png",
+    "product_image_md": "/babies/babyboydress_300.png",
+    "product_image_lg": "/babies/babyboydress_600.png"
+  },
+  {
+    "product_type": "Stroller",
+    "product_name": "Fresh Stroller",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/stroller_150.png",
+    "product_image_md": "/babies/stroller_300.png",
+    "product_image_lg": "/babies/stroller_600.png"
+  },
+  {
+    "product_type": "Sling Carrier",
+    "product_name": "Awesome Sling Carrier",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/slingcarrier_150.png",
+    "product_image_md": "/babies/slingcarrier_300.png",
+    "product_image_lg": "/babies/slingcarrier_600.png"
+  },
+  {
+    "product_type": "Crib",
+    "product_name": "Glamorous Crib",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/crib_150.png",
+    "product_image_md": "/babies/crib_300.png",
+    "product_image_lg": "/babies/crib_600.png"
+  },
+  {
+    "product_type": "Baby Bottle",
+    "product_name": "Luxurious Baby Bottle",
+    "product_department": "Babies",
+    "product_departmentId": "babies",
+    "product_image_sm": "/babies/babybottle_150.png",
+    "product_image_md": "/babies/babybottle_300.png",
+    "product_image_lg": "/babies/babybottle_600.png"
+  },
+  {
+    "product_type": "Coffee",
+    "product_name": "Topical Coffee",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/coffee_150.png",
+    "product_image_md": "/groceries/coffee_300.png",
+    "product_image_lg": "/groceries/coffee_600.png"
+  },
+  {
+    "product_type": "Tea",
+    "product_name": "Risk-free Tea",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/tea_150.png",
+    "product_image_md": "/groceries/tea_300.png",
+    "product_image_lg": "/groceries/tea_600.png"
+  },
+  {
+    "product_type": "Water",
+    "product_name": "Old-fashioned Water",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/water_150.png",
+    "product_image_md": "/groceries/water_300.png",
+    "product_image_lg": "/groceries/water_600.png"
+  },
+  {
+    "product_type": "Chocolate",
+    "product_name": "Free Chocolate",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/chocolate_150.png",
+    "product_image_md": "/groceries/chocolate_300.png",
+    "product_image_lg": "/groceries/chocolate_600.png"
+  },
+  {
+    "product_type": "Juice",
+    "product_name": "Incredible Juice",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/juice_150.png",
+    "product_image_md": "/groceries/juice_300.png",
+    "product_image_lg": "/groceries/juice_600.png"
+  },
+  {
+    "product_type": "Whisky",
+    "product_name": "Ultra Whisky",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/whisky_150.png",
+    "product_image_md": "/groceries/whisky_300.png",
+    "product_image_lg": "/groceries/whisky_600.png"
+  },
+  {
+    "product_type": "Tequila",
+    "product_name": "Brand-new Tequila",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/tequila_150.png",
+    "product_image_md": "/groceries/tequila_300.png",
+    "product_image_lg": "/groceries/tequila_600.png"
+  },
+  {
+    "product_type": "Vodka",
+    "product_name": "Safe Vodka",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/vodka_150.png",
+    "product_image_md": "/groceries/vodka_300.png",
+    "product_image_lg": "/groceries/vodka_600.png"
+  },
+  {
+    "product_type": "Corned Beef",
+    "product_name": "Remarkable Corned Beef",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/cornedbeef_150.png",
+    "product_image_md": "/groceries/cornedbeef_300.png",
+    "product_image_lg": "/groceries/cornedbeef_600.png"
+  },
+  {
+    "product_type": "Instant Noodles",
+    "product_name": "Luxurious Instant Noodles",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/instantnoodles_150.png",
+    "product_image_md": "/groceries/instantnoodles_300.png",
+    "product_image_lg": "/groceries/instantnoodles_600.png"
+  },
+  {
+    "product_type": "Olive Oil",
+    "product_name": "Handmade Olive Oil",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/oliveoil_150.png",
+    "product_image_md": "/groceries/oliveoil_300.png",
+    "product_image_lg": "/groceries/oliveoil_600.png"
+  },
+  {
+    "product_type": "Vegetable Oil",
+    "product_name": "Staple Vegetable Oil",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/vegetableoil_150.png",
+    "product_image_md": "/groceries/vegetableoil_300.png",
+    "product_image_lg": "/groceries/vegetableoil_600.png"
+  },
+  {
+    "product_type": "Chip",
+    "product_name": "Unique Chip",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/chip_150.png",
+    "product_image_md": "/groceries/chip_300.png",
+    "product_image_lg": "/groceries/chip_600.png"
+  },
+  {
+    "product_type": "Biscuit",
+    "product_name": "Handmade Biscuit",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/biscuit_150.png",
+    "product_image_md": "/groceries/biscuit_300.png",
+    "product_image_lg": "/groceries/biscuit_600.png"
+  },
+  {
+    "product_type": "Oatmeal",
+    "product_name": "Sensational Oatmeal",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/oatmeal_150.png",
+    "product_image_md": "/groceries/oatmeal_300.png",
+    "product_image_lg": "/groceries/oatmeal_600.png"
+  },
+  {
+    "product_type": "Cookie",
+    "product_name": "Ravishing Cookie",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/cookie_150.png",
+    "product_image_md": "/groceries/cookie_300.png",
+    "product_image_lg": "/groceries/cookie_600.png"
+  },
+  {
+    "product_type": "Bread",
+    "product_name": "Dazzling Bread",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/bread_150.png",
+    "product_image_md": "/groceries/bread_300.png",
+    "product_image_lg": "/groceries/bread_600.png"
+  },
+  {
+    "product_type": "Cake",
+    "product_name": "Rustic Cake",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/cake_150.png",
+    "product_image_md": "/groceries/cake_300.png",
+    "product_image_lg": "/groceries/cake_600.png"
+  },
+  {
+    "product_type": "Tomatoes",
+    "product_name": "Tested Tomatoes",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/tomatoes_150.png",
+    "product_image_md": "/groceries/tomatoes_300.png",
+    "product_image_lg": "/groceries/tomatoes_600.png"
+  },
+  {
+    "product_type": "Onions",
+    "product_name": "Rare Onions",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/onions_150.png",
+    "product_image_md": "/groceries/onions_300.png",
+    "product_image_lg": "/groceries/onions_600.png"
+  },
+  {
+    "product_type": "Garlic",
+    "product_name": "Modern Garlic",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/garlic_150.png",
+    "product_image_md": "/groceries/garlic_300.png",
+    "product_image_lg": "/groceries/garlic_600.png"
+  },
+  {
+    "product_type": "Ginger",
+    "product_name": "Extraordinary Ginger",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/ginger_150.png",
+    "product_image_md": "/groceries/ginger_300.png",
+    "product_image_lg": "/groceries/ginger_600.png"
+  },
+  {
+    "product_type": "Beef",
+    "product_name": "Guarantee Beef",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/beef_150.png",
+    "product_image_md": "/groceries/beef_300.png",
+    "product_image_lg": "/groceries/beef_600.png"
+  },
+  {
+    "product_type": "Pork",
+    "product_name": "Exciting Pork",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/pork_150.png",
+    "product_image_md": "/groceries/pork_300.png",
+    "product_image_lg": "/groceries/pork_600.png"
+  },
+  {
+    "product_type": "Chicken",
+    "product_name": "Few Chicken",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/chicken_150.png",
+    "product_image_md": "/groceries/chicken_300.png",
+    "product_image_lg": "/groceries/chicken_600.png"
+  },
+  {
+    "product_type": "Shrimp",
+    "product_name": "Miracle Shrimp",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/shrimp_150.png",
+    "product_image_md": "/groceries/shrimp_300.png",
+    "product_image_lg": "/groceries/shrimp_600.png"
+  },
+  {
+    "product_type": "Fish",
+    "product_name": "Tasty Fish",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/fish_150.png",
+    "product_image_md": "/groceries/fish_300.png",
+    "product_image_lg": "/groceries/fish_600.png"
+  },
+  {
+    "product_type": "Matches",
+    "product_name": "Magnificent Matches",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/matches_150.png",
+    "product_image_md": "/groceries/matches_300.png",
+    "product_image_lg": "/groceries/matches_600.png"
+  },
+  {
+    "product_type": "Dishwashing Liquid",
+    "product_name": "Great Dishwashing Liquid",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/dishwashingliquid_150.png",
+    "product_image_md": "/groceries/dishwashingliquid_300.png",
+    "product_image_lg": "/groceries/dishwashingliquid_600.png"
+  },
+  {
+    "product_type": "Bleach",
+    "product_name": "Practical Bleach",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/bleach_150.png",
+    "product_image_md": "/groceries/bleach_300.png",
+    "product_image_lg": "/groceries/bleach_600.png"
+  },
+  {
+    "product_type": "Toilet Cleaner",
+    "product_name": "Practical Toilet Cleaner",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/toiletcleaner_150.png",
+    "product_image_md": "/groceries/toiletcleaner_300.png",
+    "product_image_lg": "/groceries/toiletcleaner_600.png"
+  },
+  {
+    "product_type": "Soy Sauce",
+    "product_name": "Authentic Soy Sauce",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/soysauce_150.png",
+    "product_image_md": "/groceries/soysauce_300.png",
+    "product_image_lg": "/groceries/soysauce_600.png"
+  },
+  {
+    "product_type": "Vinegar",
+    "product_name": "Staple Vinegar",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/vinegar_150.png",
+    "product_image_md": "/groceries/vinegar_300.png",
+    "product_image_lg": "/groceries/vinegar_600.png"
+  },
+  {
+    "product_type": "Fish Sauce",
+    "product_name": "Adorable Fish Sauce",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/fishsauce_150.png",
+    "product_image_md": "/groceries/fishsauce_300.png",
+    "product_image_lg": "/groceries/fishsauce_600.png"
+  },
+  {
+    "product_type": "Ketchup",
+    "product_name": "Convenient Ketchup",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/ketchup_150.png",
+    "product_image_md": "/groceries/ketchup_300.png",
+    "product_image_lg": "/groceries/ketchup_600.png"
+  },
+  {
+    "product_type": "Mustard",
+    "product_name": "Simple Mustard",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/mustard_150.png",
+    "product_image_md": "/groceries/mustard_300.png",
+    "product_image_lg": "/groceries/mustard_600.png"
+  },
+  {
+    "product_type": "Eggs",
+    "product_name": "Topical Eggs",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/eggs_150.png",
+    "product_image_md": "/groceries/eggs_300.png",
+    "product_image_lg": "/groceries/eggs_600.png"
+  },
+  {
+    "product_type": "Mayonaise",
+    "product_name": "Miracle Mayonaise",
+    "product_department": "Groceries",
+    "product_departmentId": "groceries",
+    "product_image_sm": "/groceries/mayonaise_150.png",
+    "product_image_md": "/groceries/mayonaise_300.png",
+    "product_image_lg": "/groceries/mayonaise_600.png"
+  },
+  {
+    "product_type": "Leash",
+    "product_name": "Authentic Leash",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/leash_150.png",
+    "product_image_md": "/pets/leash_300.png",
+    "product_image_lg": "/pets/leash_600.png"
+  },
+  {
+    "product_type": "Collar",
+    "product_name": "Miracle Collar",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/collar_150.png",
+    "product_image_md": "/pets/collar_300.png",
+    "product_image_lg": "/pets/collar_600.png"
+  },
+  {
+    "product_type": "Pet Shoes",
+    "product_name": "Limited Edition Pet Shoes",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petshoes_150.png",
+    "product_image_md": "/pets/petshoes_300.png",
+    "product_image_lg": "/pets/petshoes_600.png"
+  },
+  {
+    "product_type": "Pet Bowl",
+    "product_name": "Magic Pet Bowl",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petbowl_150.png",
+    "product_image_md": "/pets/petbowl_300.png",
+    "product_image_lg": "/pets/petbowl_600.png"
+  },
+  {
+    "product_type": "Bird Feeder",
+    "product_name": "Topical Bird Feeder",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/birdfeeder_150.png",
+    "product_image_md": "/pets/birdfeeder_300.png",
+    "product_image_lg": "/pets/birdfeeder_600.png"
+  },
+  {
+    "product_type": "Pet Cage",
+    "product_name": "Generic Pet Cage",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petcage_150.png",
+    "product_image_md": "/pets/petcage_300.png",
+    "product_image_lg": "/pets/petcage_600.png"
+  },
+  {
+    "product_type": "Pet Crate",
+    "product_name": "Safe Pet Crate",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petcrate_150.png",
+    "product_image_md": "/pets/petcrate_300.png",
+    "product_image_lg": "/pets/petcrate_600.png"
+  },
+  {
+    "product_type": "Pet Litter",
+    "product_name": "Handcrafted Pet Litter",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petlitter_150.png",
+    "product_image_md": "/pets/petlitter_300.png",
+    "product_image_lg": "/pets/petlitter_600.png"
+  },
+  {
+    "product_type": "Pet Carrier",
+    "product_name": "Ancient Pet Carrier",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/petcarrier_150.png",
+    "product_image_md": "/pets/petcarrier_300.png",
+    "product_image_lg": "/pets/petcarrier_600.png"
+  },
+  {
+    "product_type": "Aquarium",
+    "product_name": "Unconditional Aquarium",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/aquarium_150.png",
+    "product_image_md": "/pets/aquarium_300.png",
+    "product_image_lg": "/pets/aquarium_600.png"
+  },
+  {
+    "product_type": "Pet Toy",
+    "product_name": "Awesome Pet Toy",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/pettoy_150.png",
+    "product_image_md": "/pets/pettoy_300.png",
+    "product_image_lg": "/pets/pettoy_600.png"
+  },
+  {
+    "product_type": "Dog Food",
+    "product_name": "Plethora Dog Food",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/dogfood_150.png",
+    "product_image_md": "/pets/dogfood_300.png",
+    "product_image_lg": "/pets/dogfood_600.png"
+  },
+  {
+    "product_type": "Cat Food",
+    "product_name": "Unbranded Cat Food",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/catfood_150.png",
+    "product_image_md": "/pets/catfood_300.png",
+    "product_image_lg": "/pets/catfood_600.png"
+  },
+  {
+    "product_type": "Fish Food",
+    "product_name": "Risk-free Fish Food",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/fishfood_150.png",
+    "product_image_md": "/pets/fishfood_300.png",
+    "product_image_lg": "/pets/fishfood_600.png"
+  },
+  {
+    "product_type": "Bird Food",
+    "product_name": "Generic Bird Food",
+    "product_department": "Pets",
+    "product_departmentId": "pets",
+    "product_image_sm": "/pets/birdfood_150.png",
+    "product_image_md": "/pets/birdfood_300.png",
+    "product_image_lg": "/pets/birdfood_600.png"
+  },
+  {
+    "product_type": "Tote Bag",
+    "product_name": "Smooth Tote Bag",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/totebag_150.png",
+    "product_image_md": "/fashionwomen/totebag_300.png",
+    "product_image_lg": "/fashionwomen/totebag_600.png"
+  },
+  {
+    "product_type": "Travel Bag",
+    "product_name": "Pristine Travel Bag",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/travelbag_150.png",
+    "product_image_md": "/fashionwomen/travelbag_300.png",
+    "product_image_lg": "/fashionwomen/travelbag_600.png"
+  },
+  {
+    "product_type": "Dress",
+    "product_name": "Licensed Dress",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/dress_150.png",
+    "product_image_md": "/fashionwomen/dress_300.png",
+    "product_image_lg": "/fashionwomen/dress_600.png"
+  },
+  {
+    "product_type": "Coin Purse",
+    "product_name": "Small Coin Purse",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/coinpurse_150.png",
+    "product_image_md": "/fashionwomen/coinpurse_300.png",
+    "product_image_lg": "/fashionwomen/coinpurse_600.png"
+  },
+  {
+    "product_type": "Women Jacket",
+    "product_name": "Unique Women Jacket",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenjacket_150.png",
+    "product_image_md": "/fashionwomen/womenjacket_300.png",
+    "product_image_lg": "/fashionwomen/womenjacket_600.png"
+  },
+  {
+    "product_type": "Women Sweatshirt",
+    "product_name": "Ergonomic Women Sweatshirt",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womensweatshirt_150.png",
+    "product_image_md": "/fashionwomen/womensweatshirt_300.png",
+    "product_image_lg": "/fashionwomen/womensweatshirt_600.png"
+  },
+  {
+    "product_type": "Women Jeans",
+    "product_name": "Brand-new Women Jeans",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenjeans_150.png",
+    "product_image_md": "/fashionwomen/womenjeans_300.png",
+    "product_image_lg": "/fashionwomen/womenjeans_600.png"
+  },
+  {
+    "product_type": "Women Leggings",
+    "product_name": "Premium Women Leggings",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenleggings_150.png",
+    "product_image_md": "/fashionwomen/womenleggings_300.png",
+    "product_image_lg": "/fashionwomen/womenleggings_600.png"
+  },
+  {
+    "product_type": "Women Skirt",
+    "product_name": "Simple Women Skirt",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenskirt_150.png",
+    "product_image_md": "/fashionwomen/womenskirt_300.png",
+    "product_image_lg": "/fashionwomen/womenskirt_600.png"
+  },
+  {
+    "product_type": "Women Shorts",
+    "product_name": "Ergonomic Women Shorts",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenshorts_150.png",
+    "product_image_md": "/fashionwomen/womenshorts_300.png",
+    "product_image_lg": "/fashionwomen/womenshorts_600.png"
+  },
+  {
+    "product_type": "Women Sandals",
+    "product_name": "Brilliant Women Sandals",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womensandals_150.png",
+    "product_image_md": "/fashionwomen/womensandals_300.png",
+    "product_image_lg": "/fashionwomen/womensandals_600.png"
+  },
+  {
+    "product_type": "Flat Shoes",
+    "product_name": "Practical Flat Shoes",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/flatshoes_150.png",
+    "product_image_md": "/fashionwomen/flatshoes_300.png",
+    "product_image_lg": "/fashionwomen/flatshoes_600.png"
+  },
+  {
+    "product_type": "Heels",
+    "product_name": "Gorgeous Heels",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/heels_150.png",
+    "product_image_md": "/fashionwomen/heels_300.png",
+    "product_image_lg": "/fashionwomen/heels_600.png"
+  },
+  {
+    "product_type": "Wedges",
+    "product_name": "Topical Wedges",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/wedges_150.png",
+    "product_image_md": "/fashionwomen/wedges_300.png",
+    "product_image_lg": "/fashionwomen/wedges_600.png"
+  },
+  {
+    "product_type": "Boots",
+    "product_name": "Remarkable Boots",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/boots_150.png",
+    "product_image_md": "/fashionwomen/boots_300.png",
+    "product_image_lg": "/fashionwomen/boots_600.png"
+  },
+  {
+    "product_type": "Women Wallet",
+    "product_name": "Miracle Women Wallet",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenwallet_150.png",
+    "product_image_md": "/fashionwomen/womenwallet_300.png",
+    "product_image_lg": "/fashionwomen/womenwallet_600.png"
+  },
+  {
+    "product_type": "Belt Bag",
+    "product_name": "Rare Belt Bag",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/beltbag_150.png",
+    "product_image_md": "/fashionwomen/beltbag_300.png",
+    "product_image_lg": "/fashionwomen/beltbag_600.png"
+  },
+  {
+    "product_type": "Women Backpack",
+    "product_name": "Ravishing Women Backpack",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenbackpack_150.png",
+    "product_image_md": "/fashionwomen/womenbackpack_300.png",
+    "product_image_lg": "/fashionwomen/womenbackpack_600.png"
+  },
+  {
+    "product_type": "Women Shirt",
+    "product_name": "Gorgeous Women Shirt",
+    "product_department": "Fashion Women",
+    "product_departmentId": "fashionwomen",
+    "product_image_sm": "/fashionwomen/womenshirt_150.png",
+    "product_image_md": "/fashionwomen/womenshirt_300.png",
+    "product_image_lg": "/fashionwomen/womenshirt_600.png"
+  },
+  {
+    "product_type": "Tshirt",
+    "product_name": "Magic Tshirt",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/tshirt_150.png",
+    "product_image_md": "/fashionmen/tshirt_300.png",
+    "product_image_lg": "/fashionmen/tshirt_600.png"
+  },
+  {
+    "product_type": "Polo Shirt",
+    "product_name": "Unconditional Polo Shirt",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/poloshirt_150.png",
+    "product_image_md": "/fashionmen/poloshirt_300.png",
+    "product_image_lg": "/fashionmen/poloshirt_600.png"
+  },
+  {
+    "product_type": "Men Jacket",
+    "product_name": "Luxurious Men Jacket",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/menjacket_150.png",
+    "product_image_md": "/fashionmen/menjacket_300.png",
+    "product_image_lg": "/fashionmen/menjacket_600.png"
+  },
+  {
+    "product_type": "Coat",
+    "product_name": "Licensed Coat",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/coat_150.png",
+    "product_image_md": "/fashionmen/coat_300.png",
+    "product_image_lg": "/fashionmen/coat_600.png"
+  },
+  {
+    "product_type": "Hoodie",
+    "product_name": "Easy Hoodie",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/hoodie_150.png",
+    "product_image_md": "/fashionmen/hoodie_300.png",
+    "product_image_lg": "/fashionmen/hoodie_600.png"
+  },
+  {
+    "product_type": "Men Jeans",
+    "product_name": "Dazzling Men Jeans",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/menjeans_150.png",
+    "product_image_md": "/fashionmen/menjeans_300.png",
+    "product_image_lg": "/fashionmen/menjeans_600.png"
+  },
+  {
+    "product_type": "Formal Pants",
+    "product_name": "Ultra Formal Pants",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/formalpants_150.png",
+    "product_image_md": "/fashionmen/formalpants_300.png",
+    "product_image_lg": "/fashionmen/formalpants_600.png"
+  },
+  {
+    "product_type": "Men Shorts",
+    "product_name": "Drab Men Shorts",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/menshorts_150.png",
+    "product_image_md": "/fashionmen/menshorts_300.png",
+    "product_image_lg": "/fashionmen/menshorts_600.png"
+  },
+  {
+    "product_type": "Sneakers",
+    "product_name": "Unique Sneakers",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/sneakers_150.png",
+    "product_image_md": "/fashionmen/sneakers_300.png",
+    "product_image_lg": "/fashionmen/sneakers_600.png"
+  },
+  {
+    "product_type": "Loafers",
+    "product_name": "Pledge Loafers",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/loafers_150.png",
+    "product_image_md": "/fashionmen/loafers_300.png",
+    "product_image_lg": "/fashionmen/loafers_600.png"
+  },
+  {
+    "product_type": "Black Shoes",
+    "product_name": "Exciting Black Shoes",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/blackshoes_150.png",
+    "product_image_md": "/fashionmen/blackshoes_300.png",
+    "product_image_lg": "/fashionmen/blackshoes_600.png"
+  },
+  {
+    "product_type": "Men Sandals",
+    "product_name": "Fantastic Men Sandals",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/mensandals_150.png",
+    "product_image_md": "/fashionmen/mensandals_300.png",
+    "product_image_lg": "/fashionmen/mensandals_600.png"
+  },
+  {
+    "product_type": "Messenger Bag",
+    "product_name": "Safe and effective Messenger Bag",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/messengerbag_150.png",
+    "product_image_md": "/fashionmen/messengerbag_300.png",
+    "product_image_lg": "/fashionmen/messengerbag_600.png"
+  },
+  {
+    "product_type": "Men Backpack",
+    "product_name": "Ergonomic Men Backpack",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/menbackpack_150.png",
+    "product_image_md": "/fashionmen/menbackpack_300.png",
+    "product_image_lg": "/fashionmen/menbackpack_600.png"
+  },
+  {
+    "product_type": "Men Wallet",
+    "product_name": "Fine Men Wallet",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/menwallet_150.png",
+    "product_image_md": "/fashionmen/menwallet_300.png",
+    "product_image_lg": "/fashionmen/menwallet_600.png"
+  },
+  {
+    "product_type": "Belt",
+    "product_name": "Plethora Belt",
+    "product_department": "Fashion Men",
+    "product_departmentId": "fashionmen",
+    "product_image_sm": "/fashionmen/belt_150.png",
+    "product_image_md": "/fashionmen/belt_300.png",
+    "product_image_lg": "/fashionmen/belt_600.png"
+  },
+  {
+    "product_type": "Watch",
+    "product_name": "Unbranded Watch",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/watch_150.png",
+    "product_image_md": "/accessories/watch_300.png",
+    "product_image_lg": "/accessories/watch_600.png"
+  },
+  {
+    "product_type": "Necklace",
+    "product_name": "Guarantee Necklace",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/necklace_150.png",
+    "product_image_md": "/accessories/necklace_300.png",
+    "product_image_lg": "/accessories/necklace_600.png"
+  },
+  {
+    "product_type": "Earring",
+    "product_name": "Beautiful Earring",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/earring_150.png",
+    "product_image_md": "/accessories/earring_300.png",
+    "product_image_lg": "/accessories/earring_600.png"
+  },
+  {
+    "product_type": "Ring",
+    "product_name": "Secret Ring",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/ring_150.png",
+    "product_image_md": "/accessories/ring_300.png",
+    "product_image_lg": "/accessories/ring_600.png"
+  },
+  {
+    "product_type": "Bangle",
+    "product_name": "Fancy Bangle",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/bangle_150.png",
+    "product_image_md": "/accessories/bangle_300.png",
+    "product_image_lg": "/accessories/bangle_600.png"
+  },
+  {
+    "product_type": "Bracelet",
+    "product_name": "Complimentary Bracelet",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/bracelet_150.png",
+    "product_image_md": "/accessories/bracelet_300.png",
+    "product_image_lg": "/accessories/bracelet_600.png"
+  },
+  {
+    "product_type": "Eyeglasses",
+    "product_name": "Sleek Eyeglasses",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/eyeglasses_150.png",
+    "product_image_md": "/accessories/eyeglasses_300.png",
+    "product_image_lg": "/accessories/eyeglasses_600.png"
+  },
+  {
+    "product_type": "Sunglasses",
+    "product_name": "Compelling Sunglasses",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/sunglasses_150.png",
+    "product_image_md": "/accessories/sunglasses_300.png",
+    "product_image_lg": "/accessories/sunglasses_600.png"
+  },
+  {
+    "product_type": "Contact Lenses",
+    "product_name": "Incredible Contact Lenses",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/contactlenses_150.png",
+    "product_image_md": "/accessories/contactlenses_300.png",
+    "product_image_lg": "/accessories/contactlenses_600.png"
+  },
+  {
+    "product_type": "Headband",
+    "product_name": "Clean Headband",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/headband_150.png",
+    "product_image_md": "/accessories/headband_300.png",
+    "product_image_lg": "/accessories/headband_600.png"
+  },
+  {
+    "product_type": "Cap",
+    "product_name": "Ultra Cap",
+    "product_department": "Accessories",
+    "product_departmentId": "accessories",
+    "product_image_sm": "/accessories/cap_150.png",
+    "product_image_md": "/accessories/cap_300.png",
+    "product_image_lg": "/accessories/cap_600.png"
+  },
+  {
+    "product_type": "Bike",
+    "product_name": "Tested Bike",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/bike_150.png",
+    "product_image_md": "/sportsandlifestyle/bike_300.png",
+    "product_image_lg": "/sportsandlifestyle/bike_600.png"
+  },
+  {
+    "product_type": "Fishing Rod",
+    "product_name": "Safe and effective Fishing Rod",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/fishingrod_150.png",
+    "product_image_md": "/sportsandlifestyle/fishingrod_300.png",
+    "product_image_lg": "/sportsandlifestyle/fishingrod_600.png"
+  },
+  {
+    "product_type": "Fishing Hook",
+    "product_name": "Rustic Fishing Hook",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/fishinghook_150.png",
+    "product_image_md": "/sportsandlifestyle/fishinghook_300.png",
+    "product_image_lg": "/sportsandlifestyle/fishinghook_600.png"
+  },
+  {
+    "product_type": "Tent",
+    "product_name": "Remarkable Tent",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/tent_150.png",
+    "product_image_md": "/sportsandlifestyle/tent_300.png",
+    "product_image_lg": "/sportsandlifestyle/tent_600.png"
+  },
+  {
+    "product_type": "Swiss Knife",
+    "product_name": "Ergonomic Swiss Knife",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/swissknife_150.png",
+    "product_image_md": "/sportsandlifestyle/swissknife_300.png",
+    "product_image_lg": "/sportsandlifestyle/swissknife_600.png"
+  },
+  {
+    "product_type": "Men Sport Shoes",
+    "product_name": "Pledge Men Sport Shoes",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/mensportshoes_150.png",
+    "product_image_md": "/sportsandlifestyle/mensportshoes_300.png",
+    "product_image_lg": "/sportsandlifestyle/mensportshoes_600.png"
+  },
+  {
+    "product_type": "Women Sport Shoes",
+    "product_name": "Rustic Women Sport Shoes",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/womensportshoes_150.png",
+    "product_image_md": "/sportsandlifestyle/womensportshoes_300.png",
+    "product_image_lg": "/sportsandlifestyle/womensportshoes_600.png"
+  },
+  {
+    "product_type": "Scooter",
+    "product_name": "Practical Scooter",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/scooter_150.png",
+    "product_image_md": "/sportsandlifestyle/scooter_300.png",
+    "product_image_lg": "/sportsandlifestyle/scooter_600.png"
+  },
+  {
+    "product_type": "Skateboard",
+    "product_name": "Extraordinary Skateboard",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/skateboard_150.png",
+    "product_image_md": "/sportsandlifestyle/skateboard_300.png",
+    "product_image_lg": "/sportsandlifestyle/skateboard_600.png"
+  },
+  {
+    "product_type": "Yoga Mat",
+    "product_name": "Elegant Yoga Mat",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/yogamat_150.png",
+    "product_image_md": "/sportsandlifestyle/yogamat_300.png",
+    "product_image_lg": "/sportsandlifestyle/yogamat_600.png"
+  },
+  {
+    "product_type": "Treadmill",
+    "product_name": "Staggering Treadmill",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/treadmill_150.png",
+    "product_image_md": "/sportsandlifestyle/treadmill_300.png",
+    "product_image_lg": "/sportsandlifestyle/treadmill_600.png"
+  },
+  {
+    "product_type": "Weights",
+    "product_name": "Compelling Weights",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/weights_150.png",
+    "product_image_md": "/sportsandlifestyle/weights_300.png",
+    "product_image_lg": "/sportsandlifestyle/weights_600.png"
+  },
+  {
+    "product_type": "Basketball",
+    "product_name": "Premium Basketball",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/basketball_150.png",
+    "product_image_md": "/sportsandlifestyle/basketball_300.png",
+    "product_image_lg": "/sportsandlifestyle/basketball_600.png"
+  },
+  {
+    "product_type": "Boxing Gloves",
+    "product_name": "Revolutionary Boxing Gloves",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/boxinggloves_150.png",
+    "product_image_md": "/sportsandlifestyle/boxinggloves_300.png",
+    "product_image_lg": "/sportsandlifestyle/boxinggloves_600.png"
+  },
+  {
+    "product_type": "Boxing Bag",
+    "product_name": "Brilliant Boxing Bag",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/boxingbag_150.png",
+    "product_image_md": "/sportsandlifestyle/boxingbag_300.png",
+    "product_image_lg": "/sportsandlifestyle/boxingbag_600.png"
+  },
+  {
+    "product_type": "Snorkling Gear",
+    "product_name": "Convenient Snorkling Gear",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/snorklinggear_150.png",
+    "product_image_md": "/sportsandlifestyle/snorklinggear_300.png",
+    "product_image_lg": "/sportsandlifestyle/snorklinggear_600.png"
+  },
+  {
+    "product_type": "Badminton",
+    "product_name": "Risk-free Badminton",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/badminton_150.png",
+    "product_image_md": "/sportsandlifestyle/badminton_300.png",
+    "product_image_lg": "/sportsandlifestyle/badminton_600.png"
+  },
+  {
+    "product_type": "Shuttlecock",
+    "product_name": "Staggering Shuttlecock",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/shuttlecock_150.png",
+    "product_image_md": "/sportsandlifestyle/shuttlecock_300.png",
+    "product_image_lg": "/sportsandlifestyle/shuttlecock_600.png"
+  },
+  {
+    "product_type": "Tennis",
+    "product_name": "Secret Tennis",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/tennis_150.png",
+    "product_image_md": "/sportsandlifestyle/tennis_300.png",
+    "product_image_lg": "/sportsandlifestyle/tennis_600.png"
+  },
+  {
+    "product_type": "Tennis Ball",
+    "product_name": "Glamorous Tennis Ball",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/tennisball_150.png",
+    "product_image_md": "/sportsandlifestyle/tennisball_300.png",
+    "product_image_lg": "/sportsandlifestyle/tennisball_600.png"
+  },
+  {
+    "product_type": "Volleyball",
+    "product_name": "Zesty Volleyball",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/volleyball_150.png",
+    "product_image_md": "/sportsandlifestyle/volleyball_300.png",
+    "product_image_lg": "/sportsandlifestyle/volleyball_600.png"
+  },
+  {
+    "product_type": "Baseball",
+    "product_name": "Secret Baseball",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/baseball_150.png",
+    "product_image_md": "/sportsandlifestyle/baseball_300.png",
+    "product_image_lg": "/sportsandlifestyle/baseball_600.png"
+  },
+  {
+    "product_type": "Baseball Bat",
+    "product_name": "Best-seller Baseball Bat",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/baseballbat_150.png",
+    "product_image_md": "/sportsandlifestyle/baseballbat_300.png",
+    "product_image_lg": "/sportsandlifestyle/baseballbat_600.png"
+  },
+  {
+    "product_type": "Baseball Gloves",
+    "product_name": "Best-seller Baseball Gloves",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/baseballgloves_150.png",
+    "product_image_md": "/sportsandlifestyle/baseballgloves_300.png",
+    "product_image_lg": "/sportsandlifestyle/baseballgloves_600.png"
+  },
+  {
+    "product_type": "Guitar",
+    "product_name": "Pledge Guitar",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/guitar_150.png",
+    "product_image_md": "/sportsandlifestyle/guitar_300.png",
+    "product_image_lg": "/sportsandlifestyle/guitar_600.png"
+  },
+  {
+    "product_type": "Piano",
+    "product_name": "Limited Edition Piano",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/piano_150.png",
+    "product_image_md": "/sportsandlifestyle/piano_300.png",
+    "product_image_lg": "/sportsandlifestyle/piano_600.png"
+  },
+  {
+    "product_type": "Electric Keyboard",
+    "product_name": "Generic Electric Keyboard",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/electrickeyboard_150.png",
+    "product_image_md": "/sportsandlifestyle/electrickeyboard_300.png",
+    "product_image_lg": "/sportsandlifestyle/electrickeyboard_600.png"
+  },
+  {
+    "product_type": "Drum Set",
+    "product_name": "Plethora Drum Set",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/drumset_150.png",
+    "product_image_md": "/sportsandlifestyle/drumset_300.png",
+    "product_image_lg": "/sportsandlifestyle/drumset_600.png"
+  },
+  {
+    "product_type": "Tambourine",
+    "product_name": "Exciting Tambourine",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/tambourine_150.png",
+    "product_image_md": "/sportsandlifestyle/tambourine_300.png",
+    "product_image_lg": "/sportsandlifestyle/tambourine_600.png"
+  },
+  {
+    "product_type": "Snare Drum",
+    "product_name": "Convenient Snare Drum",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/snaredrum_150.png",
+    "product_image_md": "/sportsandlifestyle/snaredrum_300.png",
+    "product_image_lg": "/sportsandlifestyle/snaredrum_600.png"
+  },
+  {
+    "product_type": "Cymbal",
+    "product_name": "Smooth Cymbal",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/cymbal_150.png",
+    "product_image_md": "/sportsandlifestyle/cymbal_300.png",
+    "product_image_lg": "/sportsandlifestyle/cymbal_600.png"
+  },
+  {
+    "product_type": "Xylophone",
+    "product_name": "Compelling Xylophone",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/xylophone_150.png",
+    "product_image_md": "/sportsandlifestyle/xylophone_300.png",
+    "product_image_lg": "/sportsandlifestyle/xylophone_600.png"
+  },
+  {
+    "product_type": "Flute",
+    "product_name": "Complimentary Flute",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/flute_150.png",
+    "product_image_md": "/sportsandlifestyle/flute_300.png",
+    "product_image_lg": "/sportsandlifestyle/flute_600.png"
+  },
+  {
+    "product_type": "Recorder",
+    "product_name": "Ravishing Recorder",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/recorder_150.png",
+    "product_image_md": "/sportsandlifestyle/recorder_300.png",
+    "product_image_lg": "/sportsandlifestyle/recorder_600.png"
+  },
+  {
+    "product_type": "E-Cigarette",
+    "product_name": "Practical E-Cigarette",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/e-cigarette_150.png",
+    "product_image_md": "/sportsandlifestyle/e-cigarette_300.png",
+    "product_image_lg": "/sportsandlifestyle/e-cigarette_600.png"
+  },
+  {
+    "product_type": "Guitar Capo",
+    "product_name": "Premium Guitar Capo",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/guitarcapo_150.png",
+    "product_image_md": "/sportsandlifestyle/guitarcapo_300.png",
+    "product_image_lg": "/sportsandlifestyle/guitarcapo_600.png"
+  },
+  {
+    "product_type": "Harmonica",
+    "product_name": "Glamorous Harmonica",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/harmonica_150.png",
+    "product_image_md": "/sportsandlifestyle/harmonica_300.png",
+    "product_image_lg": "/sportsandlifestyle/harmonica_600.png"
+  },
+  {
+    "product_type": "Kalimba",
+    "product_name": "Trustworthy Kalimba",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/kalimba_150.png",
+    "product_image_md": "/sportsandlifestyle/kalimba_300.png",
+    "product_image_lg": "/sportsandlifestyle/kalimba_600.png"
+  },
+  {
+    "product_type": "Ukelele",
+    "product_name": "Powerful Ukelele",
+    "product_department": "Sports & Lifestyle",
+    "product_departmentId": "sportsandlifestyle",
+    "product_image_sm": "/sportsandlifestyle/ukelele_150.png",
+    "product_image_md": "/sportsandlifestyle/ukelele_300.png",
+    "product_image_lg": "/sportsandlifestyle/ukelele_600.png"
+  },
+  {
+    "product_type": "Pokemon Cards",
+    "product_name": "Incredible Pokemon Cards",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/pokemoncards_150.png",
+    "product_image_md": "/toysandcollectibles/pokemoncards_300.png",
+    "product_image_lg": "/toysandcollectibles/pokemoncards_600.png"
+  },
+  {
+    "product_type": "YuGiOh Cards",
+    "product_name": "Refined YuGiOh Cards",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/yugiohcards_150.png",
+    "product_image_md": "/toysandcollectibles/yugiohcards_300.png",
+    "product_image_lg": "/toysandcollectibles/yugiohcards_600.png"
+  },
+  {
+    "product_type": "Uno",
+    "product_name": "Fresh Uno",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/uno_150.png",
+    "product_image_md": "/toysandcollectibles/uno_300.png",
+    "product_image_lg": "/toysandcollectibles/uno_600.png"
+  },
+  {
+    "product_type": "Monopoly",
+    "product_name": "Great Monopoly",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/monopoly_150.png",
+    "product_image_md": "/toysandcollectibles/monopoly_300.png",
+    "product_image_lg": "/toysandcollectibles/monopoly_600.png"
+  },
+  {
+    "product_type": "Snake and Ladder",
+    "product_name": "Gorgeous Snake and Ladder",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/snakeandladder_150.png",
+    "product_image_md": "/toysandcollectibles/snakeandladder_300.png",
+    "product_image_lg": "/toysandcollectibles/snakeandladder_600.png"
+  },
+  {
+    "product_type": "The Generals",
+    "product_name": "Safe and effective The Generals",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/thegenerals_150.png",
+    "product_image_md": "/toysandcollectibles/thegenerals_300.png",
+    "product_image_lg": "/toysandcollectibles/thegenerals_600.png"
+  },
+  {
+    "product_type": "Lego",
+    "product_name": "Generic Lego",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/lego_150.png",
+    "product_image_md": "/toysandcollectibles/lego_300.png",
+    "product_image_lg": "/toysandcollectibles/lego_600.png"
+  },
+  {
+    "product_type": "Stuffed Toy",
+    "product_name": "Licensed Stuffed Toy",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/stuffedtoy_150.png",
+    "product_image_md": "/toysandcollectibles/stuffedtoy_300.png",
+    "product_image_lg": "/toysandcollectibles/stuffedtoy_600.png"
+  },
+  {
+    "product_type": "Key Chain",
+    "product_name": "Authentic Key Chain",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/keychain_150.png",
+    "product_image_md": "/toysandcollectibles/keychain_300.png",
+    "product_image_lg": "/toysandcollectibles/keychain_600.png"
+  },
+  {
+    "product_type": "Chess",
+    "product_name": "Brand-new Chess",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/chess_150.png",
+    "product_image_md": "/toysandcollectibles/chess_300.png",
+    "product_image_lg": "/toysandcollectibles/chess_600.png"
+  },
+  {
+    "product_type": "Crocodile Dentist",
+    "product_name": "Intelligent Crocodile Dentist",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/crocodiledentist_150.png",
+    "product_image_md": "/toysandcollectibles/crocodiledentist_300.png",
+    "product_image_lg": "/toysandcollectibles/crocodiledentist_600.png"
+  },
+  {
+    "product_type": "Rubiks Cube",
+    "product_name": "Brand-new Rubiks Cube",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/rubikscube_150.png",
+    "product_image_md": "/toysandcollectibles/rubikscube_300.png",
+    "product_image_lg": "/toysandcollectibles/rubikscube_600.png"
+  },
+  {
+    "product_type": "Jenga",
+    "product_name": "Gorgeous Jenga",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/jenga_150.png",
+    "product_image_md": "/toysandcollectibles/jenga_300.png",
+    "product_image_lg": "/toysandcollectibles/jenga_600.png"
+  },
+  {
+    "product_type": "Spiderman Costume",
+    "product_name": "Select Spiderman Costume",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/spidermancostume_150.png",
+    "product_image_md": "/toysandcollectibles/spidermancostume_300.png",
+    "product_image_lg": "/toysandcollectibles/spidermancostume_600.png"
+  },
+  {
+    "product_type": "Elsa Costume",
+    "product_name": "Plain Elsa Costume",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/elsacostume_150.png",
+    "product_image_md": "/toysandcollectibles/elsacostume_300.png",
+    "product_image_lg": "/toysandcollectibles/elsacostume_600.png"
+  },
+  {
+    "product_type": "Akatsuki Costume",
+    "product_name": "Unbranded Akatsuki Costume",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/akatsukicostume_150.png",
+    "product_image_md": "/toysandcollectibles/akatsukicostume_300.png",
+    "product_image_lg": "/toysandcollectibles/akatsukicostume_600.png"
+  },
+  {
+    "product_type": "Beyblade",
+    "product_name": "Handcrafted Beyblade",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/beyblade_150.png",
+    "product_image_md": "/toysandcollectibles/beyblade_300.png",
+    "product_image_lg": "/toysandcollectibles/beyblade_600.png"
+  },
+  {
+    "product_type": "Hot Wheels",
+    "product_name": "Staggering Hot Wheels",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/hotwheels_150.png",
+    "product_image_md": "/toysandcollectibles/hotwheels_300.png",
+    "product_image_lg": "/toysandcollectibles/hotwheels_600.png"
+  },
+  {
+    "product_type": "Spirograph",
+    "product_name": "Generic Spirograph",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/spirograph_150.png",
+    "product_image_md": "/toysandcollectibles/spirograph_300.png",
+    "product_image_lg": "/toysandcollectibles/spirograph_600.png"
+  },
+  {
+    "product_type": "Nerf Gun",
+    "product_name": "Safe and effective Nerf Gun",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/nerfgun_150.png",
+    "product_image_md": "/toysandcollectibles/nerfgun_300.png",
+    "product_image_lg": "/toysandcollectibles/nerfgun_600.png"
+  },
+  {
+    "product_type": "Clay",
+    "product_name": "Miracle Clay",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/clay_150.png",
+    "product_image_md": "/toysandcollectibles/clay_300.png",
+    "product_image_lg": "/toysandcollectibles/clay_600.png"
+  },
+  {
+    "product_type": "Fidget Spinner",
+    "product_name": "Small Fidget Spinner",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/fidgetspinner_150.png",
+    "product_image_md": "/toysandcollectibles/fidgetspinner_300.png",
+    "product_image_lg": "/toysandcollectibles/fidgetspinner_600.png"
+  },
+  {
+    "product_type": "Cards Against Humanity",
+    "product_name": "Remarkable Cards Against Humanity",
+    "product_department": "Toys and Collectibles",
+    "product_departmentId": "toysandcollectibles",
+    "product_image_sm": "/toysandcollectibles/cardsagainsthumanity_150.png",
+    "product_image_md": "/toysandcollectibles/cardsagainsthumanity_300.png",
+    "product_image_lg": "/toysandcollectibles/cardsagainsthumanity_600.png"
+  },
+  {
+    "product_type": "Motorcycle",
+    "product_name": "Sensational Motorcycle",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/motorcycle_150.png",
+    "product_image_md": "/automotive/motorcycle_300.png",
+    "product_image_lg": "/automotive/motorcycle_600.png"
+  },
+  {
+    "product_type": "Helmet",
+    "product_name": "Zesty Helmet",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/helmet_150.png",
+    "product_image_md": "/automotive/helmet_300.png",
+    "product_image_lg": "/automotive/helmet_600.png"
+  },
+  {
+    "product_type": "Anti-freeze",
+    "product_name": "Powerful Anti-freeze",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/anti-freeze_150.png",
+    "product_image_md": "/automotive/anti-freeze_300.png",
+    "product_image_lg": "/automotive/anti-freeze_600.png"
+  },
+  {
+    "product_type": "Brake Fluid",
+    "product_name": "Modern Brake Fluid",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/brakefluid_150.png",
+    "product_image_md": "/automotive/brakefluid_300.png",
+    "product_image_lg": "/automotive/brakefluid_600.png"
+  },
+  {
+    "product_type": "Grease",
+    "product_name": "Fantastic Grease",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/grease_150.png",
+    "product_image_md": "/automotive/grease_300.png",
+    "product_image_lg": "/automotive/grease_600.png"
+  },
+  {
+    "product_type": "Power Steering Fluid",
+    "product_name": "Unique Power Steering Fluid",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/powersteeringfluid_150.png",
+    "product_image_md": "/automotive/powersteeringfluid_300.png",
+    "product_image_lg": "/automotive/powersteeringfluid_600.png"
+  },
+  {
+    "product_type": "Transmission Fluid",
+    "product_name": "Licensed Transmission Fluid",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/transmissionfluid_150.png",
+    "product_image_md": "/automotive/transmissionfluid_300.png",
+    "product_image_lg": "/automotive/transmissionfluid_600.png"
+  },
+  {
+    "product_type": "Sealer",
+    "product_name": "Fresh Sealer",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/sealer_150.png",
+    "product_image_md": "/automotive/sealer_300.png",
+    "product_image_lg": "/automotive/sealer_600.png"
+  },
+  {
+    "product_type": "Engine Oil",
+    "product_name": "Revolutionary Engine Oil",
+    "product_department": "Automotive",
+    "product_departmentId": "automotive",
+    "product_image_sm": "/automotive/engineoil_150.png",
+    "product_image_md": "/automotive/engineoil_300.png",
+    "product_image_lg": "/automotive/engineoil_600.png"
+  }
+]

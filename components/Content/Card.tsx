@@ -14,7 +14,7 @@ interface PropsTypes {
 }
 export default React.memo(function ActionAreaCard({ data }: PropsTypes) {
   const router = useRouter();
-  const imageLink = (process.env.NEXT_PUBLIC_URL || "") + data.product_image_lg;
+  const imageLink = "/products" + data.product_image_lg;
   return (
     <Link href={`/product/${data._id}`} passHref>
       <Card variant="outlined" sx={{ maxWidth: 350 }}>

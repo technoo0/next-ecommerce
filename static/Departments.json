@@ -1,0 +1,72 @@
+[
+  {
+    "department_name": "Gadgets",
+    "department_id": "gadgets",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Appliances",
+    "department_id": "appliances",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Home & Living",
+    "department_id": "homeandliving",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "School Supplies",
+    "department_id": "schoolsupplies",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Health & Beauty",
+    "department_id": "healthandbeauty",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Babies",
+    "department_id": "babies",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Groceries",
+    "department_id": "groceries",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Pets",
+    "department_id": "pets",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Fashion Women",
+    "department_id": "fashionwomen",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Fashion Men",
+    "department_id": "fashionmen",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Accessories",
+    "department_id": "accessories",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Sports & Lifestyle",
+    "department_id": "sportsandlifestyle",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Toys and Collectibles",
+    "department_id": "toysandcollectibles",
+    "department_numProducts": 0
+  },
+  {
+    "department_name": "Automotive",
+    "department_id": "automotive",
+    "department_numProducts": 0
+  }
+]

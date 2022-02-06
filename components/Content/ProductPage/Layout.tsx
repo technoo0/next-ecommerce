@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Divider, Grid, IconButton, Link, Typography } from "@mui/material";
 import React, { useDebugValue, useEffect } from "react";
 import { product } from "../../../interfaces/products_data";
@@ -20,9 +21,6 @@ const sanityIoImageLoader: ImageLoader = ({ src, width }) => {
   return `${process.env.NEXT_PUBLIC_URL}${src}`;
 };
 export default function Layout({ product_data }: PropsTypes) {
-  const imageLink =
-    (process.env.NEXT_PUBLIC_URL || "") + product_data.product_image_lg;
-
   return (
     <Grid
       container
@@ -40,10 +38,10 @@ export default function Layout({ product_data }: PropsTypes) {
       >
         <Grid item xs={12} sm={6} xl={4}>
           <Zoom>
-            <CardMedia
-              component="img"
-              image={imageLink}
+            <img
+              src={"/products" + product_data.product_image_lg}
               alt={product_data.product_name || ""}
+              width={"100%"}
             />
             {/* <Image
               loader={sanityIoImageLoader}
