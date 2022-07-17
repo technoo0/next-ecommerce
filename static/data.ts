@@ -1,11 +1,13 @@
 import fs from "fs";
 import path from "path";
-const getAllProducts = async () => {
-  let rawdata = fs
-    .readFileSync(path.join("static", "Proudacts.json"))
-    .toString();
-  let student = JSON.parse(rawdata);
-  console.log(path.join("static", "Proudacts.json"));
+
+const rawdata = fs.readFileSync(path.resolve("Proudacts.json")).toString();
+const ProductsArray = JSON.parse(rawdata);
+
+const getAllProducts = () => {
+  return ProductsArray;
 };
 
-export { getAllProducts };
+console.log(getAllProducts());
+
+// export { getAllProducts };
